@@ -1,0 +1,31 @@
+{
+  "name": "fsdp_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darsh-hanhan/FSDP_Project"
+  },
+  "author": "Darsini,Xiaozhen,Aisya,Jordan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Darsh-hanhan/FSDP_Project.git"
+  },
+  "homepage": "https://github.com/Darsh-hanhan/repo/tree/FSDP_Project#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "connect-flash": "^0.1.1",
+    "express-handlebars": "^4.0.4",
+    "express-mysql-session": "^2.1.4",
+    "flash-messenger": "^1.1.1",
+    "moment": "^2.26.0",
+    "mysql2": "^2.1.0",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0",
+    "sequelize": "^5.21.11"
+  }
+}
